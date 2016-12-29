@@ -47,11 +47,16 @@ HeaderAndFooterRecyclerView是支持addHeaderView、 addFooterView、分页加�
 项目地址：https://github.com/chrisbanes/Android-PullToRefresh
 
 Demo 地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true
+
 APP 示例：新浪微博各个页面
+
 现已停止维护
 
 2、android-Ultra-Pull-to-Refresh
 下拉刷新，第一个项目已经停止维护了，并且使用起来相对复杂，定制性也差。这个是替代和改良方案。这个继承于 ViewGroup 可以包含任何 View。功能甚至比 SwipeRefreshLayout 强大。使用起来非常简单。良好的设计，如果你想定制自己的 UI 样式，非常简单，就像给 ListView 加一个 Header View 那么简单。支持 API LEVEL >= 8
+
 只支持下拉刷新，上拉刷新需要自己实现
+
 项目地址：https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
+
 原理剖析文档：android-Ultra-Pull-to-Refresh
