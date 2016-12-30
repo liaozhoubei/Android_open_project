@@ -27,7 +27,6 @@ IRecyclerView is a custom RecyclerView that supports pull-to-refresh, pull-to-lo
 
 实现RecyclerView下拉刷新和上拉加载更多以及RecyclerView线性、网格、瀑布流效果演示。如果你只需要简单地实现下拉刷新和上拉加载效果，不需要定制，那PullLoadMoreRecyclerView最适合不过。
 
-
 ## 5、cundong/HeaderAndFooterRecyclerView
 
 项目地址：https://github.com/cundong/HeaderAndFooterRecyclerView
@@ -37,6 +36,10 @@ HeaderAndFooterRecyclerView是支持addHeaderView、 addFooterView、分页加�
 它可以对 RecyclerView 控件进行拓展（通过RecyclerView.Adapter实现），给RecyclerView增加HeaderView、FooterView，并且不需要对你的具体业务逻辑Adapter做任何修改。
 
 同时，通过修改 FooterView State，可以动态 FooterView 赋予不同状态（加载中、加载失败、滑到最底等），可以实现 RecyclerView 分页加载数据时的 Loading/TheEnd/NetWorkError 效果。
+
+## 6、whichname/WZMRecyclerView
+
+一个简单的上拉下拉刷新的RecyclerView
 
 # 支持上拉刷新和下拉加载的ListView
 
